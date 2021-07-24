@@ -1,0 +1,17 @@
+body{
+	background-color:rgba(255,0,0,0.5);
+	font-family: "Brush Script MT";
+}
+h1{
+	text-align:center;
+}
+li{
+	font-family: "Times New Roman", Times, serif;
+	padding:1em;
+}
+dd{
+	font-family: "Times New Roman", Times, serif;
+}
+dt{
+	font-family: "Times New Roman", Times, serif;
+}

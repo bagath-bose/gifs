@@ -1,0 +1,12 @@
+body{
+	font-family: "Brush Script MT";
+	text-align:center;
+	background-color:powderblue;
+}
+.gifs{
+	padding:70px 0;
+}
+img{
+	max-width:90%;
+	
+}
